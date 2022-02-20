@@ -1,0 +1,125 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Bronx,Kingsbridge,4baf59e8f964a520a6f93be3,Bikram Yoga,23,8.8,5
+1,Manhattan,Marble Hill,4baf59e8f964a520a6f93be3,Bikram Yoga,23,8.8,5
+2,Bronx,Pelham Parkway,0,0,0,0.0,0
+3,Brooklyn,Bay Ridge,4b32d9d5f964a520071525e3,Bikram Yoga,18,7.2,5
+4,Brooklyn,Greenpoint,4a9a86dcf964a520cc3120e3,goodyoga,30,9.1,7
+5,Brooklyn,Greenpoint,55b51009498e4c7fd1fea655,New Love City,37,8.9,9
+6,Brooklyn,Greenpoint,5172d6477043c222fb3a8b97,Maha Rose,30,8.8,3
+7,Brooklyn,Greenpoint,4be738c8bcef2d7fe10606e5,Usha Veda Yoga,23,8.6,8
+8,Brooklyn,Greenpoint,4b79ee03f964a520e31a2fe3,hosh yoga,20,8.8,0
+9,Brooklyn,Greenpoint,56b22714498e31102864ef29,Lucent Yoga,14,8.3,7
+10,Brooklyn,Sheepshead Bay,4db0dc040437a93f7f7d4c16,Hot Spot Yoga,12,7.5,6
+11,Brooklyn,Sheepshead Bay,57eff309498e62932825361c,Sakshi Bhava Yoga,4,6.9,2
+12,Brooklyn,Flatbush,4b9a7fe7f964a5201cbb35e3,Third Root Community Health Center,12,7.9,2
+13,Brooklyn,Crown Heights,50e354a8e4b0869e71bdedce,Urban Asanas,20,8.8,4
+14,Brooklyn,Kensington,4cbb6442a33bb1f7870a94fd,Jaya Yoga East,10,7.0,5
+15,Brooklyn,Windsor Terrace,4a637a42f964a52021c51fe3,Jaya Yoga Center,9,7.7,2
+16,Brooklyn,Windsor Terrace,4cbb6442a33bb1f7870a94fd,Jaya Yoga East,10,7.0,5
+17,Brooklyn,Prospect Heights,589248e2fc73d40beda9e917,Jewel City Yoga,18,8.7,3
+18,Brooklyn,Williamsburg,54a96fb3498ef8abe4184a51,Laughing Lotus Yoga Center,54,8.6,5
+19,Brooklyn,Williamsburg,59da542c829b0c160a0a9373,Y7 Studio,36,8.9,1
+20,Brooklyn,Williamsburg,58275fad88a1a041b74ddacb,Loom Yoga,8,7.9,0
+21,Brooklyn,Bushwick,53c2029d498e83aa022c2fab,Daya Yoga Studio,39,8.7,3
+22,Brooklyn,Bedford Stuyvesant,58a0777fe6160c5d3bb28f3d,Namastuy,7,7.5,1
+23,Brooklyn,Brooklyn Heights,4fa968b7e4b07cb43c311f1c,Area Yoga & Spa,37,8.5,10
+24,Brooklyn,Brooklyn Heights,59b1b5e12a7ab6050123b1d5,Heatwise,24,8.9,1
+25,Brooklyn,Brooklyn Heights,4a5ddf2cf964a520c8bd1fe3,Bikram Yoga Brooklyn Heights,11,8.0,2
+26,Brooklyn,Brooklyn Heights,57db1eab498e0847385285cc,Yoga Vida,40,8.9,10
+27,Brooklyn,Brooklyn Heights,4a7ed3a4f964a52027f21fe3,Mala Yoga,37,8.9,14
+28,Brooklyn,Cobble Hill,4a7ed3a4f964a52027f21fe3,Mala Yoga,37,8.9,14
+29,Brooklyn,Cobble Hill,5474bd3c498e09ca697faeb2,Brooklyn Yoga Project,21,8.2,2
+30,Brooklyn,Carroll Gardens,4b01c3d9f964a5203e4522e3,Prema Yoga,33,8.5,5
+31,Brooklyn,Carroll Gardens,5474bd3c498e09ca697faeb2,Brooklyn Yoga Project,21,8.2,2
+32,Brooklyn,Gowanus,4b01c3d9f964a5203e4522e3,Prema Yoga,33,8.5,5
+33,Brooklyn,Fort Greene,4b894d9cf964a520ef2932e3,Lucky Lotus Yoga,5,8.2,7
+34,Brooklyn,Fort Greene,55f95130498eae76adcd3b50,Brooklyn Yoga Club,9,8.1,1
+35,Brooklyn,Fort Greene,4a776818f964a52065e41fe3,Move With Grace: Yoga & Juice Bar,12,8.1,5
+36,Brooklyn,Park Slope,4b42923ef964a520c9d625e3,Park Slope Yoga,31,8.6,7
+37,Brooklyn,Park Slope,4b43ebdef964a52014ee25e3,Bend & Bloom Yoga,91,8.9,16
+38,Brooklyn,East New York,4bce36cecc8cd13a7600c4cf,Genesis Tree Of Life Yoga & Wellness,5,6.9,1
+39,Brooklyn,Manhattan Beach,4db0dc040437a93f7f7d4c16,Hot Spot Yoga,12,7.5,6
+40,Brooklyn,Dyker Heights,4b32d9d5f964a520071525e3,Bikram Yoga,18,7.2,5
+41,Brooklyn,Clinton Hill,4a776818f964a52065e41fe3,Move With Grace: Yoga & Juice Bar,12,8.1,5
+42,Brooklyn,Clinton Hill,55f95130498eae76adcd3b50,Brooklyn Yoga Club,9,8.1,1
+43,Brooklyn,Clinton Hill,4b894d9cf964a520ef2932e3,Lucky Lotus Yoga,5,8.2,7
+44,Brooklyn,Clinton Hill,5576c63f498e61b303f0ce67,Yva yoga,8,8.0,1
+45,Brooklyn,Clinton Hill,4e807eb3754a31ed09b522c0,Dou Yoga,23,8.1,6
+46,Brooklyn,Downtown,55340cc0498e43895e118e31,Tangerine Hot Power Yoga,77,8.6,10
+47,Brooklyn,Downtown,59b1b5e12a7ab6050123b1d5,Heatwise,24,8.9,1
+48,Brooklyn,Boerum Hill,55340cc0498e43895e118e31,Tangerine Hot Power Yoga,77,8.6,10
+49,Brooklyn,Prospect Lefferts Gardens,540e4676498e8f0de59980cc,Bikram Yoga Lefferts Gardens,10,7.5,2
+50,Brooklyn,City Line,4bce36cecc8cd13a7600c4cf,Genesis Tree Of Life Yoga & Wellness,5,6.9,1
+51,Brooklyn,Prospect Park South,4b9a7fe7f964a5201cbb35e3,Third Root Community Health Center,12,7.9,2
+52,Brooklyn,East Williamsburg,4dd5453c81dc00aa777e1f22,Jai Yoga Arts,11,8.3,2
+53,Brooklyn,North Side,59511716d3cce848d75ae884,CorePower Yoga,20,8.9,1
+54,Brooklyn,North Side,4c1cfae7b4e62d7f30e7db93,Yoga to the People,321,8.9,49
+55,Brooklyn,North Side,58275fad88a1a041b74ddacb,Loom Yoga,8,7.9,0
+56,Brooklyn,North Side,54a96fb3498ef8abe4184a51,Laughing Lotus Yoga Center,54,8.6,5
+57,Brooklyn,South Side,54a96fb3498ef8abe4184a51,Laughing Lotus Yoga Center,54,8.6,5
+58,Brooklyn,South Side,59da542c829b0c160a0a9373,Y7 Studio,36,8.9,1
+59,Brooklyn,South Side,58275fad88a1a041b74ddacb,Loom Yoga,8,7.9,0
+60,Brooklyn,South Side,59511716d3cce848d75ae884,CorePower Yoga,20,8.9,1
+61,Manhattan,Inwood,4af09262f964a5204edd21e3,Bread and Yoga,9,7.9,3
+62,Manhattan,Hamilton Heights,4b4a2951f964a520e07c26e3,Bikram Yoga Harlem,48,8.7,17
+63,Manhattan,Hamilton Heights,539487f4498e2f3990601b71,Brahman Yoga Studio,20,8.0,7
+64,Manhattan,Hamilton Heights,4f6ded7be4b03b3f39c68401,Asali Yoga,6,7.5,2
+65,Manhattan,Manhattanville,5260284711d29ec2a5c48d97,Unity Yoga,29,8.3,8
+66,Manhattan,Central Harlem,5260284711d29ec2a5c48d97,Unity Yoga,29,8.3,8
+67,Manhattan,Central Harlem,4d48fce9a0ef548126b5edf6,Harlem Yoga Studio,45,9.0,5
+68,Manhattan,Yorkville,4a049afcf964a5200f721fe3,Pure Yoga East,104,8.6,26
+69,Manhattan,Yorkville,57e9a32c498e8b22de297f1b,Y7 – Upper East Side,49,9.0,4
+70,Manhattan,Yorkville,4ad7bdb0f964a5204d0e21e3,New York Yoga - Hot Yoga,38,8.8,8
+71,Manhattan,Upper West Side,4b365ac3f964a520773325e3,Pure Yoga West,101,9.2,34
+72,Manhattan,Lincoln Square,4b5b1799f964a52045e328e3,Prenatal Yoga Center,17,8.6,5
+73,Manhattan,Chelsea,4a3fef94f964a5201ba41fe3,Integral Yoga Institute New York,55,9.0,17
+74,Manhattan,Chelsea,4c261716f1272d7fb4d985c5,YOGAMAYA New York,137,8.9,21
+75,Manhattan,Chelsea,4aa7cf24f964a520534d20e3,Iyengar Yoga Institute,26,8.8,2
+76,Manhattan,Greenwich Village,4e5a48d8185036bc29efb979,Sacred Sounds Yoga,96,9.0,17
+77,Manhattan,Greenwich Village,577327b6498e4811c0a92800,Woom Center,44,8.9,11
+78,Manhattan,Greenwich Village,4bb676c6941ad13a437a1fe3,Three Jewels,6,8.9,6
+79,Manhattan,East Village,4fcd2193e4b09949e5188434,ABC Sanctuary,6,7.9,2
+80,Manhattan,Tribeca,582dbaabd21e031c1a35423d,SKY TING YOGA,54,9.0,9
+81,Manhattan,West Village,4f2425cce4b0e12081504088,Modo Yoga NYC,189,9.0,23
+82,Manhattan,Manhattan Valley,4dea360f636555593e4a9850,Land Yoga,5,7.6,6
+83,Manhattan,Gramercy,4b67625ef964a520a54b2be3,Reflections Center for Conscious Living & Yoga,45,8.4,9
+84,Queens,Astoria,4a80aa8df964a520dcf51fe3,The Giving Tree Yoga Studio,31,8.8,14
+85,Queens,Forest Hills,4c64b110ee03ef3b735dbaac,Zen and Yoga,14,8.1,2
+86,Queens,Forest Hills,4b7d8e1af964a5205dc62fe3,bambooYOGA,13,7.7,11
+87,Queens,Flushing,51957b1e498edc652485698c,Yumcha Yoga,7,6.8,2
+88,Queens,Bayside,4d5d39643f92236add6ee71d,Vitality Yoga,6,7.6,7
+89,Queens,Briarwood,0,0,0,0.0,0
+90,Queens,Oakland Gardens,4f6f7a06e4b0a4e2117a860d,FlexHotYoga,6,8.0,3
+91,Queens,Oakland Gardens,50f5975de4b0cfb8a9ba2a3c,Flex Hot Yoga,16,8.2,2
+92,Queens,Steinway,4a80aa8df964a520dcf51fe3,The Giving Tree Yoga Studio,31,8.8,14
+93,Queens,Bay Terrace,4be47f182457a5931850aa15,Bonda Yoga,6,7.2,2
+94,Queens,Ravenswood,4c2bcb22ae6820a1e3631843,Yoga Agora,99,9.0,25
+95,Queens,Forest Hills Gardens,4b512062f964a520c54327e3,Living Yoga,11,8.1,5
+96,Queens,Forest Hills Gardens,4c64b110ee03ef3b735dbaac,Zen and Yoga,14,8.1,2
+97,Queens,Forest Hills Gardens,4b7d8e1af964a5205dc62fe3,bambooYOGA,13,7.7,11
+98,Staten Island,Rosebank,0,0,0,0.0,0
+99,Staten Island,New Dorp,0,0,0,0.0,0
+100,Brooklyn,Ditmas Park,4b9a7fe7f964a5201cbb35e3,Third Root Community Health Center,12,7.9,2
+101,Manhattan,Carnegie Hill,4ad7bdb0f964a5204d0e21e3,New York Yoga - Hot Yoga,38,8.8,8
+102,Manhattan,Carnegie Hill,4a049afcf964a5200f721fe3,Pure Yoga East,104,8.6,26
+103,Manhattan,Carnegie Hill,561e89d6498e3c11a652381c,Five Pillars Yoga,8,8.0,2
+104,Manhattan,Carnegie Hill,57e9a32c498e8b22de297f1b,Y7 – Upper East Side,49,9.0,4
+105,Manhattan,Midtown South,4a778d7ff964a520c8e41fe3,Yoga to the People,78,9.0,30
+106,Staten Island,Shore Acres,0,0,0,0.0,0
+107,Staten Island,Clifton,0,0,0,0.0,0
+108,Manhattan,Sutton Place,4ac259d0f964a520ca9820e3,Earth Yoga NYC,31,8.5,6
+109,Queens,Hunters Point,4be738c8bcef2d7fe10606e5,Usha Veda Yoga,23,8.6,8
+110,Manhattan,Turtle Bay,4b7e98f7f964a5209ef42fe3,mang'Oh yoga,48,8.5,17
+111,Manhattan,Tudor City,4b7e98f7f964a5209ef42fe3,mang'Oh yoga,48,8.5,17
+112,Manhattan,Flatiron,4c261716f1272d7fb4d985c5,YOGAMAYA New York,137,8.9,21
+113,Manhattan,Flatiron,4aa7cf24f964a520534d20e3,Iyengar Yoga Institute,26,8.8,2
+114,Manhattan,Flatiron,4f2425cce4b0e12081504088,Modo Yoga NYC,189,9.0,23
+115,Brooklyn,Fulton Ferry,57db1eab498e0847385285cc,Yoga Vida,40,8.9,10
+116,Brooklyn,Fulton Ferry,4bb8f29998c7ef3bdb9b3102,Abhaya Yoga Dumbo,26,8.6,16
+117,Brooklyn,Vinegar Hill,4bb8f29998c7ef3bdb9b3102,Abhaya Yoga Dumbo,26,8.6,16
+118,Brooklyn,Vinegar Hill,57db1eab498e0847385285cc,Yoga Vida,40,8.9,10
+119,Brooklyn,Dumbo,4bb8f29998c7ef3bdb9b3102,Abhaya Yoga Dumbo,26,8.6,16
+120,Brooklyn,Dumbo,57db1eab498e0847385285cc,Yoga Vida,40,8.9,10
+121,Bronx,Kingsbridge Heights,4baf59e8f964a520a6f93be3,Bikram Yoga,23,8.8,5
+122,Brooklyn,Erasmus,4bf12f5fb315c9b69daf93ff,The Yoga Studio,7,7.6,2
+123,Brooklyn,Erasmus,0,0,0,0.0,0
